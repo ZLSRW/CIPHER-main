@@ -1,0 +1,20 @@
+{
+  "dataset_name": "dataset_autdb_strict_main",
+  "prepared_from": "AutDB strict benchmark construction pipeline",
+  "graph_edges": 1058405,
+  "nodes": 21642,
+  "positive_source": "AutDB",
+  "graph_stats": {
+    "background_union_edges": 1077213,
+    "candidate_edges_after_positive_removal": 1068937,
+    "candidate_edges_after_ambiguity_filter": 1054354,
+    "negative_edges": 10532,
+    "final_graph_edges": 1058405,
+    "nodes": 21642,
+    "connected_components": 3,
+    "largest_component_nodes": 21638,
+    "density": 0.004519674521259346,
+    "positive_nodes": 6408,
+    "negative_nodes": 9360
+  }
+}
